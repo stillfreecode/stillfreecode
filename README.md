@@ -4,11 +4,9 @@
   <h1 align="center">¡ Que tal ! me llamo Ángel 👋</h1>
   
 <p align="center">
-    👨‍💻 Soy Desarrollador Full-Stack y Estudiante de Ingeniería en Sistemas. 🎓
+    Soy Desarrollador Full-Stack y Estudiante de Ingeniería en Sistemas.
     <br>
-    🎨 Convierto diseños e ideas en aplicaciones web eficientes. ⚡
-    <br>
-    ❤️ Apasionado por el diseño UX/UI y el desarrollo Full-Stack.
+    Diseño UX/UI / Desarrollo Full-Stack.
   </p>
 
 <h2 align="center">👇 Proyectos mas Recientes👇</h2>
