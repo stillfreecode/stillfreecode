@@ -1,7 +1,7 @@
 <p align="center">
   <img align="center" width="200" src="https://github.com/stillfreecode/stillfreecode/blob/main/angel-git.png"/>
   
-  <h1 align="center">¡ Que tal ! me llamo Ángel 👋</h1>
+  <h1 align="center">¡ Que tal ! me llamo Ángel</h1>
   
 <p align="center">
     Soy Desarrollador Full-Stack y Estudiante de Ingeniería en Sistemas.
@@ -9,7 +9,7 @@
     Diseño UX/UI / Desarrollo Full-Stack.
   </p>
 
-<h2 align="center">👇 Proyectos mas Recientes👇</h2>
+<h2 align="center">Proyectos mas Recientes</h2>
 
 <p align="center">
 Electro-Tec un proyecto E-commerce Full-Stack para una tienda de componentes de computadora.
