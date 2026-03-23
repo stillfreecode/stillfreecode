@@ -1,15 +1,14 @@
 <p align="center">
   <img align="center" width="200" src="https://github.com/stillfreecode/stillfreecode/blob/main/angel-git.png"/>
   
-  <h1 align="center">¡ Que tal ! me llamo Ángel</h1>
+  <h1 align="center"> Ángel </h1>
   
 <p align="center">
-    Soy Desarrollador Full-Stack y Estudiante de Ingeniería en Sistemas.
     <br>
-    Diseño UX/UI / Desarrollo Full-Stack.
+    web developer
   </p>
 
-<h2 align="center">Proyectos mas Recientes</h2>
+<h2 align="center">Proyectos </h2>
 
 <p align="center">
 Electro-Tec un proyecto E-commerce Full-Stack para una tienda de componentes de computadora.
@@ -72,15 +71,14 @@ Electro-Tec un proyecto E-commerce Full-Stack para una tienda de componentes de 
 </p>
 <hr>
 
-<h2 align="center">📸 Fotografía de Producto y Diseño Digital 📸</h2>
+<h2 align="center">Fotografía de Producto y Diseño Digital</h2>
 
 <p align="center">
-  Experiencia profesional en la creación y optimización de contenido visual para E-commerce.
+  creación de contenido visual para E-commerce.
   <br>
-  Con este trabajo logré un aumento de ventas del 30% y ademas ayude a mejorar la reputación e imagen de la Empresa.</b>
 </p>
 <p align="center">
-  ⭐ ¡ Aportes mas destacados ! ⭐
+    Aportes 
 </p>
 
 <table align="center" border="0" cellpadding="10" cellspacing="0">
@@ -103,7 +101,7 @@ Electro-Tec un proyecto E-commerce Full-Stack para una tienda de componentes de 
   </tr>
 </table>
 
-<h2 align="center">🛠️ Mi Stack Tecnológico</h2>
+<h2 align="center"> Mi Stack Tecnológico</h2>
 
 <h4 align="center">Lenguajes</h4>
 <p align="center">
@@ -147,44 +145,12 @@ Electro-Tec un proyecto E-commerce Full-Stack para una tienda de componentes de 
 <br>
 <hr>
 
-<h2 align="center"> <p align="center">
-  <a href="https://www.tiktok.com/@xsesh.tv" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/320px-TikTok_logo.svg.png" alt="Mi TikTok" height="200px" width="200px" />
-  </a>
-</p> Videos mas recientes 👇</h2>
-
+<h2 align="center">¿Conectamos?</h2>
 <p align="center">
-  contenido educativo acerca de la tecnología 
-</p>
-
-<p align="center">
-  <b>Lo que NO te dicen sobre elegir un buen gabinete</b><br><br>
-  <a href="https://www.tiktok.com/@xsesh.tv/video/7541113989590256952" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/stillfreecode/stillfreecode/main/miniatura.png" width="200" alt="Video de TikTok 1">
-  </a>
-</p>
-<br>
-
-<h2 align="center">📫 ¿Conectamos?</h2>
-<p align="center">
-  Estoy abierto a nuevas oportunidades y colaboraciones.
+  Estoy abierto a nuevas oportunidades
 </p>
 
 <table align="center" border="0" cellpadding="5" cellspacing="0" style="margin-top: 15px;">
-  
-  <tr>
-    <td align="right" width="60px">
-      <a href="https://www.linkedin.com/in/angel-cv-500167227/" target="blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/60px-LinkedIn_logo_initials.png" alt="Mi LinkedIn" height="35px" width="35px" />
-      </a>
-    </td>
-    <td align="left">
-      <a href="https://www.linkedin.com/in/angel-cv-500167227/" target="blank" style="text-decoration: none; color: inherit;">
-        <b>LinkedIn</b><br>
-        <small>/in/angel-cv-500167227</small>
-      </a>
-    </td>
-  </tr>
   
   <tr>
     <td align="right" width="60px">
