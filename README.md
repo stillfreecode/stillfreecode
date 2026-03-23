@@ -2,11 +2,6 @@
   <img align="center" width="200" src="https://github.com/stillfreecode/stillfreecode/blob/main/angel-git.png"/>
   
   <h1 align="center"> Ángel </h1>
-  
-<p align="center">
-    <br>
-    web developer
-  </p>
 
 <h2 align="center">Proyectos </h2>
 
