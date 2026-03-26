@@ -139,17 +139,7 @@ Electro-Tec un proyecto E-commerce Full-Stack para una tienda de componentes de 
 </p>
 <br>
 <hr>
-
-<h2 align="center">¿Conectamos?</h2>
-<p align="center">
-  Estoy abierto a nuevas oportunidades
-</p>
-
 <table align="center" border="0" cellpadding="5" cellspacing="0" style="margin-top: 15px;">
-  
-  <tr>
-    <td align="right" width="60px">
-      <a href="mailto:angelzayonixx@gmail.com" target="blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Mi Email" height="35px" width="35px" />
       </a>
     </td>
