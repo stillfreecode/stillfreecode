@@ -1,7 +1,7 @@
 <h2 align="center">Proyectos </h2>
 
 <p align="center">
-Sistema integral monolítico de e-commerce para la venta y administración de componentes
+Sistema monolítico e-commerce
 </p>
 
 <table align="center" border="0" cellpadding="10" cellspacing="0">
