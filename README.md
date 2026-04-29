@@ -1,4 +1,4 @@
-<h2 align="left"> Mi Stack Tecnológico</h2>
+<h2 align="left">Stack Tecnológico</h2>
 
 <h4 align="left">Lenguajes</h4>
 <p align="left">
